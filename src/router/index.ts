@@ -6,7 +6,6 @@ Vue.use(VueRouter)
 const routes: Array<RouteConfig> = [
   {
     path: '/',
-    // component: ()=>import('../views/Money.vue'),
     redirect:'/money'
   },
   {

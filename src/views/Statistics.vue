@@ -1,13 +1,14 @@
 <template>
     <div>
         Statistics页面
+        <Nav/>
     </div>
 </template>
 
-<script>
-    export default {
-        
-    }
+<script lang ="ts">
+  export default {
+    name:'Statistics'
+  }
 </script>
 
 <style lang="scss" scoped>

@@ -1,12 +1,13 @@
 <template>
   <div>
       Labels页面
+      <Nav/>
   </div>
 </template>
 
-<script>
+<script lang ="ts">
   export default {
-    
+    name:'Labels'
   }
 </script>
 
