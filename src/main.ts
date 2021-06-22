@@ -7,7 +7,6 @@ import Layout from './components/Layout.vue'
 
 Vue.component('Nav',Nav)
 Vue.component('Layout',Layout)
-
 Vue.config.productionTip = false
 
 new Vue({
