@@ -1,46 +1,7 @@
 <template>
   <div class="nav-wrapper">
     <div class="content">
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
-    <p>Money页面</p>
+      <p>Money页面</p>
     </div>
       <Nav/>
   </div>
